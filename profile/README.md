@@ -1,4 +1,4 @@
-![Leviter-Header]([https://placehold.co/1600x900])
+![Leviter-Header](https://placehold.co/1600x800)
 
 ## Leviter Platform
 
