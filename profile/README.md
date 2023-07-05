@@ -1,4 +1,4 @@
-![Leviter-Header]([https://raw.githubusercontent.com/TrayMCnet/.github/main/profile/TrayMCBanner.png](https://placehold.co/1600x900))
+![Leviter-Header]([https://placehold.co/1600x900])
 
 ## Leviter Platform
 
